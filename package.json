@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a02-functions-qq358856605/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a02-functions-qq358856605#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-qq358856605#readme",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^3.3.1"
+  }
 }
