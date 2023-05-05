@@ -1,21 +1,29 @@
 {
-  "name": "a02-functions-qq358856605",
-  "version": "1.0.0",
-  "description": "comp 426 a2",
-  "main": "galosh.js",
-  "scripts": {
-    "test": "node cli.js -n 35.92 -w 79.05 -z Amaerica/New_York"
+  "bin": {
+    "galosh.js": "./cli.js"
   },
+  "name": "426-a2-webserver",
+  "version": "0.0.1",
+  "description": "this package is for comp426 a2",
+  "main": "server.js",
+  "scripts": {
+    "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
+  },
+  "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/comp426-2023-spring/a02-functions-qq358856605.git"
+    "url": "git+https://github.com/comp426-2023-spring/a02-functions-JoeZhou-encoding.git"
   },
-  "author": "qq358856605",
+  "keywords": [
+    "port",
+    "function"
+  ],
+  "author": "JoeZhou-encoding",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/comp426-2023-spring/a02-functions-qq358856605/issues"
+    "url": "https://github.com/comp426-2023-spring/a02-functions-JoeZhou-encoding/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a02-functions-qq358856605#readme",
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-JoeZhou-encoding#readme",
   "dependencies": {
     "minimist": "^1.2.8",
     "moment-timezone": "^0.5.43",
