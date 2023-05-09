@@ -12,7 +12,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/comp426-2023-spring/a02-functions-JoeZhou-encoding.git"
+    "url": "git@github.com:comp426-2023-spring/a02-functions-qq358856605.git"
   },
   "keywords": [
     "port",
@@ -21,9 +21,9 @@
   "author": "JoeZhou-encoding",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/comp426-2023-spring/a02-functions-JoeZhou-encoding/issues"
+    "url": "https://github.com/comp426-2023-spring/a02-functions-qq358856605/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a02-functions-JoeZhou-encoding#readme",
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-qq358856605-encoding#readme",
   "dependencies": {
     "minimist": "^1.2.8",
     "moment-timezone": "^0.5.43",
